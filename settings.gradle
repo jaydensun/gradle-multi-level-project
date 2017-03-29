@@ -1,0 +1,8 @@
+rootProject.name = 'gradle-multi-level-project'
+
+include 'test1:test11'
+
+include 'test1:test12'
+
+include 'test2:test22'
+
